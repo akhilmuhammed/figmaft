@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+
+
+
+h1{
+   width: max-content;
+    margin: auto;
+    text-align: center;
+    color:black;
+    background-color: aqua;
+    border-radius: 3px;
+   margin-top: 9px;
+    
+    
+}
+
+img{
+    margin: auto;
+    margin-top: 9px;
+    margin-left: 62px;
+    width: 70%;
+    height: 30%;
+}
